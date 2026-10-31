@@ -9,7 +9,7 @@ int main(void)
 
     if (temperature >= 30)
     {
-        printf("Warning: High temperature -> Clone by MN!\n");
+        printf("Warning: High temperature -> Clone by MN -> Add by local SmartGit!\n");
     }
 
 
