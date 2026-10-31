@@ -9,8 +9,10 @@ int main(void)
 
     if (temperature >= 30)
     {
-        printf("Warning: High temperature!\n");
+        printf("Warning: High temperature -> Clone by MN!\n");
     }
+
+
 
     return 0;
 }
